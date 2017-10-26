@@ -1,5 +1,5 @@
-# Forensic-windows
-Scripts used for windows forensic analysis
+# Windows Configuration Collector
+Script is used to collect and analyse windows configuration 
 Script downloaded from https://github.com/SherifEldeeb/COPP
 
 Run as administrator
